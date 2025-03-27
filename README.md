@@ -77,5 +77,4 @@ If you are a recruiter or hiring manager, this project showcases my ability to d
 
 ---
 **Author**: Busuioc Nichita
-**GitHub**: [yourusername](https://github.com/Cioc-pixel)
 
