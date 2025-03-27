@@ -76,7 +76,6 @@ This project demonstrates expertise in:
 If you are a recruiter or hiring manager, this project showcases my ability to design and deploy security tools, analyze attacks, and improve defensive strategies.
 
 ---
-**Author**: Your Name  
-**GitHub**: [yourusername](https://github.com/yourusername)  
-**Email**: your.email@example.com
+**Author**: Busuioc Nichita
+**GitHub**: [yourusername](https://github.com/Cioc-pixel)
 
